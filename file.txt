@@ -1,4 +1,9 @@
 Just a simple file
 
  just a file...oh my god!
+<<<<<<< HEAD
 haha!
+=======
+
+so ,what doyou problem?
+>>>>>>> 8f36562dc21c76e9c602df6c019d1c84deaff07d
