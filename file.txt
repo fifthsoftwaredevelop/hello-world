@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Just a big file!
+=======
+Just a simple file
+
+ good!
+good£¡
+>>>>>>> aa6e0f7832dd2d3fb226d064f8b3ef899a1b7056
