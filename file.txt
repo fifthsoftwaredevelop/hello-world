@@ -1,7 +1,10 @@
 
 Just a big file
 
- just a file...oh my god!sssddd
+<<<<<<< HEAD
+ just a file...oh my god!aaa
+=======
+ just a file...oh my god!sss>>>>>>> d57ad988963a8f00b09254872a8e2d5acb1b41fd
 
 haha!
 
