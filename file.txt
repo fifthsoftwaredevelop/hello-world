@@ -3,4 +3,8 @@ Just a big file
  just a file...oh my god!aaa
 haha!
 
+<<<<<<< HEAD
 888888888888888£¡
+=======
+666666666666.....
+>>>>>>> dde983e70093e9976e0e3f6e58fdb9b69d3a41e6
